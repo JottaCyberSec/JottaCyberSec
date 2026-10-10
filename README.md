@@ -16,9 +16,8 @@
 ### 🛡️ Sobre mim
 
 - 🔐 Estagiário de **Infraestrutura e Segurança da Informação** no Núcleo de Segurança da Informação da Defensoria Pública do RJ
-- 🌐 Vim da área de **redes** e hoje estudo segurança dos dois lados: **defensivo (SOC / Blue Team)** e **ofensivo (pentest)**
+- 🌐 Segurança dos dois lados: **Defensivo (SOC / Blue Team)** e **Ofensivo (pentest)**
 - 🎓 Sistemas de Informação (UVA) · Tecnólogo em Cybersecurity (ACADI-TI)
-- 📚 Estudando agora: **TryHackMe SOC Level 1**
 
 ---
 
